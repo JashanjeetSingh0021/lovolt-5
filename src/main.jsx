@@ -93,7 +93,7 @@ function Hero() {
   return (
     <section id="home" className="hero section-pad">
       <div className="hero-copy reveal">
-        <p className="eyebrow"><Cable /> Low Voltage Security & Automation</p>
+        <p className="eyebrow"><Cable /> Property Surveillance & Security Systems</p>
         <h1>Security systems that look professional, work reliably, and don’t feel cheap.</h1>
         <p className="hero-text">
           LoVolt installs and services camera systems, access control, alarms, and sound systems for homes and businesses.
